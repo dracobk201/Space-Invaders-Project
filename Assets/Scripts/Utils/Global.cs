@@ -2,7 +2,9 @@
 {
     #region Tags
     public const string PLAYERTAG = "Player";
+    public const string PLAYERBULLETTAG = "Player Bullet";
     public const string ENEMYTAG = "Enemy";
+    public const string ENEMYBULLETTAG = "Enemy Bullet";
     #endregion
 
     #region Axis
